@@ -17,7 +17,22 @@ Esse é um CRUD realizado com Laravel e BootStrap 5, afim de projetar uma tela d
 # Telas do projeto
 
 - Tela Inicial(Index): 
+
 ![index](https://user-images.githubusercontent.com/65103555/114651814-a74ec080-9cb2-11eb-815d-213c0b9b3e5e.png)
 
 - Criar Cadastro(create):
+
 ![create](https://user-images.githubusercontent.com/65103555/114652016-0f050b80-9cb3-11eb-8556-ebd83c01e31f.png)
+
+- Editar Cadastros(edit):
+
+![edit](https://user-images.githubusercontent.com/65103555/114652266-8a66bd00-9cb3-11eb-914c-3fb865e61889.png)
+
+# Documentações para auxiliar: 
+
+- https://www.php.net/manual/pt_BR/index.php
+- https://dev.mysql.com/doc/
+- https://laravel.com/docs/8.x
+- https://getbootstrap.com/
+- https://datatables.net/
+
