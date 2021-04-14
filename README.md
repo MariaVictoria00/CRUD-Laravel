@@ -16,5 +16,8 @@ Esse é um CRUD realizado com Laravel e BootStrap 5, afim de projetar uma tela d
 
 # Telas do projeto
 
--Tela Inicial(Index)
+- Tela Inicial(Index): 
 ![index](https://user-images.githubusercontent.com/65103555/114651814-a74ec080-9cb2-11eb-815d-213c0b9b3e5e.png)
+
+- Criar Cadastro(create):
+![create](https://user-images.githubusercontent.com/65103555/114652016-0f050b80-9cb3-11eb-8556-ebd83c01e31f.png)
