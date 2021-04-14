@@ -14,6 +14,7 @@ Esse é um CRUD realizado com Laravel e BootStrap 5, afim de projetar uma tela d
 - Acessar no navegador a porta que foi disponibilizada pelo comando acima, juntamendo com "/cadastros"
 
 
-# Telas do projeto 
+# Telas do projeto
 
-![index](https://user-images.githubusercontent.com/65103555/114649879-496ca980-9caf-11eb-9268-69a228cafa41.png)
+-Tela Inicial(Index)
+![index](https://user-images.githubusercontent.com/65103555/114651814-a74ec080-9cb2-11eb-815d-213c0b9b3e5e.png)
