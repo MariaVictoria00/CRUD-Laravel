@@ -17,3 +17,4 @@ Esse é um CRUD realizado com Laravel e BootStrap 5, afim de projetar uma tela d
 # Telas do projeto 
 
 
+https://github.com/MariaVictoria00/CRUD-Laravel/issues/1#issue-857485300
