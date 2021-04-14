@@ -1,3 +1,7 @@
+# Sobre o Projeto 
+Esse é um CRUD realizado com Laravel e BootStrap 5, afim de projetar uma tela de cadastro de cantidatos simples.
+
+
 # Como iniciar projeto:
 - Baixar algum serve:( Xampp, Lamp ou Wamp);
 - Instalar o composer;
