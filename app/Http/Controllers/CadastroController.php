@@ -24,8 +24,9 @@ class CadastroController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function create()
-    {
-        return view('cadastro.create');
+    {   
+            
+            return view('cadastro.create');  
     }
 
     /**
@@ -36,6 +37,7 @@ class CadastroController extends Controller
      */
     public function store(Request $request)
     {
+
         $cadastros = new Cadastro();
 
         $cadastros-> nome = $request -> get('nome');
@@ -47,6 +49,7 @@ class CadastroController extends Controller
         $cadastros-> telefone = $request -> get('telefone');
 
         $cadastros->save();
+
 
         return redirect('/cadastros');
     }
